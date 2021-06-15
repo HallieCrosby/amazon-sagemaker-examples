@@ -7,13 +7,14 @@ Get started with Model Monitor
    introduction/SageMaker-ModelMonitoring
 
 
-Enable model monitor
-====================
+
+Model Monitor with Tensorflow
+=============================
 
 .. toctree::
    :maxdepth: 1
 
-   enable_model_monitor/SageMaker-Enable-Model-Monitor
+   tensorflow/SageMaker-Model-Monitor-tensorflow
 
 
 Visualization
